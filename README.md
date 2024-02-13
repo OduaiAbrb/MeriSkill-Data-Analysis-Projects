@@ -17,6 +17,4 @@ The sales analysis project focuses on analyzing sales data to understand sales p
 
 Feel free to explore the code and data provided in this repository for educational or reference purposes. If you intend to use or modify this code for commercial or derivative works, please ensure proper attribution to the copyright holder.
 
-## Acknowledgments
 
-Special thanks to [insert any acknowledgments or credits here, if applicable]
